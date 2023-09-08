@@ -12,3 +12,7 @@ Username and Password Fields:
 The login form fields (username/email and password) appear smoothly from the center of the screen as the Octocat logo finishes its transition. These fields are sleek and minimalist, in line with GitHub's design philosophy.
 Interactive Elements:
 As users hover over the input fields, they subtly highlight with a color change effect to indicate interactivity. Placeholder text inside the fields fades away when users begin typing.
+Login Button:
+A prominent "Login" button appears below the input fields once users have entered their credentials. When users hover over this button, it subtly enlarges and changes color, encouraging them to click.
+Error Handling:
+If users input incorrect login information, error messages elegantly appear beneath the respective input fields, providing clear feedback. The animation ensures that error messages slide in smoothly and fade out gradually.
