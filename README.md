@@ -20,3 +20,7 @@ Remember Me and Forgot Password:
 Below the login button, there are options to "Remember Me" and "Forgot Password." Hovering over these options highlights them, and clicking on "Forgot Password" triggers a smooth transition to a password reset page.
 Footer and Social Links:
 At the bottom of the page, GitHub's footer contains links to social media profiles and relevant policies. Hovering over these links subtly changes their color, indicating their clickability.
+Responsive Design:
+The animation is designed to be responsive, adapting seamlessly to various screen sizes and orientations. It ensures a consistent user experience across devices.
+Seamless Transition to Dashboard:
+Upon successful login, users are smoothly transitioned to the GitHub dashboard, maintaining a cohesive user journey.
