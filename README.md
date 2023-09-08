@@ -16,3 +16,7 @@ Login Button:
 A prominent "Login" button appears below the input fields once users have entered their credentials. When users hover over this button, it subtly enlarges and changes color, encouraging them to click.
 Error Handling:
 If users input incorrect login information, error messages elegantly appear beneath the respective input fields, providing clear feedback. The animation ensures that error messages slide in smoothly and fade out gradually.
+Remember Me and Forgot Password:
+Below the login button, there are options to "Remember Me" and "Forgot Password." Hovering over these options highlights them, and clicking on "Forgot Password" triggers a smooth transition to a password reset page.
+Footer and Social Links:
+At the bottom of the page, GitHub's footer contains links to social media profiles and relevant policies. Hovering over these links subtly changes their color, indicating their clickability.
